@@ -2,6 +2,7 @@
 This Mendix widget utilizes the @sayem314/react-native-keep-awake library to prevent the device screen from going to sleep while your app is running. This is beneficial for scenarios where you require the app to stay visible for extended periods without user interaction, such as during navigation or video playback.
 
 ## Usage
+drop the widget on your mobile page. this will keep your device from sleeping
 ![ins](https://github.com/aerborne/mendix-native-insomnia/assets/28711216/08a2e72d-9756-46e0-a5c2-11d92d7c2754)
 
 
