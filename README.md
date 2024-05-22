@@ -1,17 +1,10 @@
 ## NativeInsomia
-[My widget description]
-
-## Features
-[feature highlights]
+This Mendix widget utilizes the @sayem314/react-native-keep-awake library to prevent the device screen from going to sleep while your app is running. This is beneficial for scenarios where you require the app to stay visible for extended periods without user interaction, such as during navigation or video playback.
 
 ## Usage
-[step by step instructions]
 
 ## Demo project
 [link to sandbox]
-
-## Issues, suggestions and feature requests
-[link to GitHub issues]
 
 ## Development and contribution
 
@@ -20,5 +13,5 @@
     - the widget will be bundled;
     - the bundle will be included in a `dist` folder in the root directory of the project;
     - the bundle will be included in the `deployment` and `widgets` folder of the Mendix test project.
-
-[specify contribution]
+      
+Karl A Baldelomar - Rapid App Werks
